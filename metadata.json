@@ -1,0 +1,6 @@
+{
+  "name": "KAIRO DIGITAL",
+  "description": "KAIRO DIGITAL SERVICES — Professional digital services, TikTok promotion, UK accounts, premium apps, and CapCut services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
